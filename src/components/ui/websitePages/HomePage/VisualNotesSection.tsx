@@ -15,7 +15,7 @@ export default function VisualNotesSection() {
             width={550}
             height={527}
             alt="visual notes"
-            className="w-auto h-auto object-cover"
+            className=" object-cover"
           />
         </div>
         <FeatureBlock

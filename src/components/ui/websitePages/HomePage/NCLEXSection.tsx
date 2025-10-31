@@ -18,7 +18,7 @@ export default function NCLEXSection() {
             alt="NCLEX"
             width={640}
             height={627}
-            className="w-auto h-auto object-cover "
+            className=" object-cover "
           />
         </div>
 

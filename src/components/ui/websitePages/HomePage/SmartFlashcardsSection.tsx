@@ -15,7 +15,7 @@ export default function SmartFlashcardsSection() {
             width={640}
             height={627}
             alt="flashcard-img"
-            className="h-auto w-auto"
+            className=""
           />
         </div>
         {/* right content */}
