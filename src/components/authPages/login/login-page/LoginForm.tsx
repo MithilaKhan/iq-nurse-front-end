@@ -52,7 +52,7 @@ export default function LoginForm({ onFinish, form }: LoginFormProps) {
         >
           <Input
             prefix={<MailOutlined style={{ color: "#9ca3af" }} />}
-            placeholder="Enter Your Email"
+            placeholder="Enter abc@gmail.com"
             style={{
               borderRadius: "8px",
               backgroundColor: "#f9fafb",
@@ -68,7 +68,7 @@ export default function LoginForm({ onFinish, form }: LoginFormProps) {
         >
           <Input.Password
             prefix={<LockOutlined style={{ color: "#9ca3af" }} />}
-            placeholder="Enter Your Password"
+            placeholder="Enter 12345"
             iconRender={(visible) =>
               visible ? <EyeTwoTone /> : <EyeInvisibleOutlined />
             }

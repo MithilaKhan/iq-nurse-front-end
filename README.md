@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IQ Nurse 
 
-## Getting Started
+**IQ Nurse** is a web platform focused on providing on-demand healthcare consultations, nurse-led care coordination, and telehealth services. It serves as a modern interface for patients to connect with qualified nursing professionals, manage appointments, and access health resources online.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Virtual Nurse Consultations** — Patients can book video or chat-based sessions with licensed nurses.  
+- **Profile & Availability Management** — Nurses can manage their profiles, working hours, and accept or reject booking requests.  
+- **Health Tracking & Follow-Ups** — Integration for tracking vitals, care plans, and follow-up scheduling.  
+- **Secure Messaging** — Encrypted chat for patient — nurse communication.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Services Provided
 
-## Learn More
+- Tele-nursing and remote care  
+- Chronic care and post-treatment follow-up  
+- Preventive health consultations  
+- Patient education and health monitoring  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌍 Impact & Use Cases
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Improves access to healthcare, especially in remote or underserved areas  
+- Reduces hospital load by handling follow-ups and preventive care online  
+- Provides a cost-efficient alternative for non-emergency consultations  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Mission
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+To reinvent nursing care by providing a secure, accessible, and patient-centric telehealth platform that bridges healthcare gaps and empowers both patients and nurses.
+
+---
+
+## 📘 Project Overview
+
+This repository contains the **front-end codebase for the IQ Nurse web application**, including all interface components for user dashboards, booking flows, messaging, and profile management.
+
